@@ -7,6 +7,8 @@
 </head>
 <body>
     <h1>GIT publicação</h1>
+    <h1>Treinando Pull Request</h1>
+    <h1>Teste de Commit</h1>
 </body>
 </html>
 
